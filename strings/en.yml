@@ -17,6 +17,8 @@ help_tts: "Say something."
 help_volume: "Check the current volume."
 help_1: "User commands:"
 help_2: "Admin commands:"
+help_rules: "See the rules"
+help_about: "Know about me"
 
 # Bot
 bot: "Bot is updating and restarting..."
