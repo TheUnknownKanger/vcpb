@@ -22,8 +22,8 @@ help_2: "Admin commands:"
 bot: "Bot is updating and restarting..."
 
 # Start
-start_1: "Hi, send me a YouTube link to play it."
-start_2: "Search"
+start_1: "Hey, I'm Music Streamer. \nI stream music in @MysteriousGangSupport. \n\nJust send me a YouTube link to play it there."
+start_2: "Search Your Song"
 
 # Inline
 inline_1: "Type a YouTube video title..."
@@ -114,9 +114,16 @@ queue_1: "There are {0} items in the queue, here are the first 10 of them:"
 queue_2: "{0}. {1}, duration: {2}, requested by: {3}"
 queue_3: "Removed that item in the queue."
 queue_4: "Queue cleared."
+queue_5: "Queue is empty. Please add any song first"
 
 # YTDL
 ytdl_1: "Downloading..."
 ytdl_2: "Downloaded and scheduled to play at position {0}."
 ytdl_3: "You can't download live videos."
 ytdl_4: "You can't download videos longer than {0} minutes."
+
+# About n Credits / Info
+creds: "This bot is made through the below mentioned projects. Thanks for their efforts. \n\nMainly :- [VoiceChatPyroBot](https://github.com/rojserbest/VoiceChatPyroBot). \nAlso thanks to :- [Subinps](https://github.com/Subinps) for [Zeet](https://github.com/rojserbest/vcpb-zeet-deploy) support."
+
+# Rules
+rules: "**Rules:** \n\n1) We can change rules anytime. \n2) Only 3 languages are allowed :- English, Hindi and Punjabi. (Exceptional like Despacito is allowed) \n3) No rude Hindi or Punjabi songs allowed. \n4) Don't promote your own videos. \n5) Only songs are allowed. \n6) Don't send same song again and again. \n7) Respect decisions of sudo users, whatever they are."
