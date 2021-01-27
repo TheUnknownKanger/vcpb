@@ -8,7 +8,7 @@ from strings import get_string as _
     filters.command("about", "/") & filters.private
 )
 @wrap
-def rules(client, message):
+def about(client, message):
     message.reply_text(_("creds")) 
 
 __handlers__ = [
