@@ -1,5 +1,10 @@
 # Pyrogram bot to automate streaming music in voice chats
 
+## Easy To Deploy 
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MysteryxD/vcpb)
+
+
 ## Read this before scrolling down
 * #WeWantPyTGCalls #WeWantJSTGCalls #WeWantTGCallsJS
 * You can't run this on Android using Termux.
